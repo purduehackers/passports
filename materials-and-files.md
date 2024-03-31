@@ -22,6 +22,13 @@
   - We bought a bunch of these from our local Joann before realizing that they're hugely marked up over there! Buy these from Amazon.
 - [Cricut Weeding Tweezers](https://a.co/d/dsz49RZ)
 - [Corner Rounder](https://a.co/d/fPIrw2R)
+- [Craft scissors](https://www.joann.com/singer-4.75in-craft-scissors-with-comfort-grip/18557652.html)
+- [Wonder clips](https://a.co/d/bLAhxb1)
+- [Butcher paper](https://a.co/d/diT9jAl)
+  - You can also use any parchment paper
+- Heat press mat
+  - This is available to us via the Knowledge Lab, but [this is a good one](https://a.co/d/eghgwoA).
+- Regular scissors
 - Cricut Paper Trimmer
   - This is available to us via the Knowledge Lab, but [you can buy it on Amazon.](https://a.co/d/b7VGXfK)
 - Ruler
@@ -32,6 +39,7 @@
   - This is available to us via the Knowledge Lab
 - 1/8 clear acrylic laser cut to 17.8x12.4cm
   - We laser cut this at the Bechtel Center. This is used as the "template" for cutting the faux leather to the right size. You can use anything as long as it's cut to 17.8x12.4cm, but ideally it should have a little bit of weight, because you'll have to hold it down and cut around it.
+- Scrap paper
 
 # Machines
 

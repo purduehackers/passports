@@ -80,26 +80,8 @@ If you have extra time want to save time during the ceremony event, you can cut 
 _Do not_ pre-cut data pages, as it will make it more difficult to apply book tape during the ceremony event.
 
 - Grab a ruler and an XActo knife. Set all pages aside except for one
-- Place the ruler all the way across the page. Start with the shorter side of the paper
+- Place the ruler all the way across the page, lining up with the printed design. Start with the shorter side of the paper
 - Hold the ruler down tight and run an XActo knife all the way across the page. Start at one edge and end at another. Do not start or end in the middle of the page
 - If the paper doesn't separate, keep holding the ruler down and repeat until it does. (Printer paper should usually cut after one round)
 
 If you do this step, make sure to also round the corners of all the pages you cut, otherwise people won't do it at the ceremony event, and for those who do it will take longer
-
-# Passport ceremony event
-
-TODO
-
----
-
-- layer of black picheng faux-leather (link to amazon). 17.8x12.4cm
-- cover design is cut out of gold heat transfer vinyl from joann with a cricut maker 3, then heat pressed onto the faux leather
-- two sets of laminated black cardstock 8.2x12.4cm, one on each side
-- 1 layer of black cardstock, 17.4x12.4cm
-- the pages are printed on regular printer paper, except for the first page which printed on cardstock
-- we lay book tape (link to amaazon) on the data page. this, in addition to being printed on cardstock, gives it extra weight and important/official feel
-- the pages are folded and sewed to the layer of black cardstock
-- an nfc sticker is placed on one of the laminated cardstock pieces
-- we glue everything with book glue (link to demco): laminated cardstock to faux leather, then sewed pages on top
-- then the booklets are pressed open under a weight while the glue dries (24 hours ideally)
-- nfc stickers are activated with the passport authority app we made (link to github)
