@@ -8,6 +8,13 @@ Every passport has an NFC sticker embedded in its cover, which has an ID written
 
 Read more: https://blog.purduehackers.com/posts/papers-please
 
+## Associated repos
+
+- [Passport data page generator](https://github.com/purduehackers/passport-data-pages)
+- [id](https://github.com/purduehackers/id)
+- [Door opener](https://github.com/purduehackers/door-opener)
+- [dash](https://github.com/purduehackers/dash)
+
 ---
 
 This repo is for documenting passports in greater detail.
