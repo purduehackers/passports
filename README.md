@@ -10,9 +10,9 @@ Read more: https://blog.purduehackers.com/posts/papers-please
 
 ## Associated repos
 
-- [Passport data page generator](https://github.com/purduehackers/passport-data-pages)
+- [Issuing Office](https://github.com/purduehackers/passport-data-pages)
 - [id](https://github.com/purduehackers/id)
-- [Door opener](https://github.com/purduehackers/door-opener)
+- [Door Opener](https://github.com/purduehackers/door-opener)
 - [dash](https://github.com/purduehackers/dash)
 
 ---
