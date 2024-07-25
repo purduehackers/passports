@@ -58,6 +58,7 @@ Prep takes anywhere from 1 to 2 hours, with an average of 90 minutes. We try to 
 - Unroll the faux leather and place the acrylic template on the top left corner
 - Hold it down tight and cut around the template using an XActo knife
 - Repeat until you've cut enough. The roll should be long long enough for two columns of cutting
+- Dimensions: 17.8x12.4cm
 
 ## Round your corners
 
