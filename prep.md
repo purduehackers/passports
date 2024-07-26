@@ -2,7 +2,7 @@
 
 All our passport ceremony prep is done in the Knowledge Lab.
 
-First, we grab the submitted data pages from an R2 bucket, download them to the Knowledge Lab computer, and then combine them into a PDF. All the stamp pages are already stored as a PDF on that computer. (TODO: include PDF in this repo).
+First, we grab the submitted data pages from an R2 bucket, download them to the Knowledge Lab computer, and then combine them into a PDF. All the stamp pages are already stored as a PDF on that computer.
 
 Then, we store the number of people who are making a passport that evening in our big big brains.
 
