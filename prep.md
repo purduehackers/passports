@@ -33,7 +33,8 @@ Prep takes anywhere from 1 to 2 hours, with an average of 90 minutes. We try to 
 
 ## Laminate the cards
 
-- Turn on the lamination, set it to 5mm. Wait for it to be ready
+- Turn on the laminatior, set it to 3mm. Wait for it to be ready
+  - As of writing, the Knowledge Lab has 3mm laminating sheets, but sometimes they have 5mm. Make sure you set it to the setting that matches the sheets they have. If they have both types, prefer 3mm, but it doesn't make a difference on the final passport either way.
 - Place An 8.5x11 sheet of black cardstock inside the lamination plastic
 - Run it though. There's a correct direction to run it though but idk what it is. Both directions have worked fine in the past
 - Repeat until you've made enough. One sheet will make enough for 2 passports.
