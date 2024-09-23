@@ -13,7 +13,6 @@ Read more: https://blog.purduehackers.com/posts/papers-please
 - [Issuing Office](https://github.com/purduehackers/passport-data-pages)
 - [id](https://github.com/purduehackers/id)
 - [Door Opener](https://github.com/purduehackers/door-opener)
-- [dash](https://github.com/purduehackers/dash)
 
 ---
 
